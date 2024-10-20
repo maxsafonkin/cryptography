@@ -9,3 +9,4 @@
 - [Шифр замены](./algorithms/01_Monoalphabetic.ipynb)
 - [Шифр Виженера](./algorithms/02_Vigenere.ipynb)
 - [Алгоритм Энигмы](./algorithms/03_Enigma.ipynb)
+- [DES](./algorithms/04_DES.ipynb)
