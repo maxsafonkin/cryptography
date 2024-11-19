@@ -11,3 +11,4 @@
 - [Алгоритм Энигмы](./algorithms/03_Enigma.ipynb)
 - [DES](./algorithms/04_DES.ipynb)
 - [AES](./algorithms/05_AES.ipynb)
+- [RSA](./algorithms/06_AES.ipynb)
