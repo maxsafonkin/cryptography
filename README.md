@@ -12,3 +12,4 @@
 - [DES](./algorithms/04_DES.ipynb)
 - [AES](./algorithms/05_AES.ipynb)
 - [RSA](./algorithms/06_RSA.ipynb)
+- [MD5](./algorithms/07_MD5.ipynb)
